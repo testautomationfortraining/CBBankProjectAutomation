@@ -10,6 +10,8 @@ import com.cbbank.qa.pages.HomePage;
 import com.cbbank.qa.pages.LoginPage;
 
 public class LoginPageTest extends TestBase {
+	
+	//This line will be pushed to github
 
 	LoginPage loginPage;
 	HomePage homePage;
